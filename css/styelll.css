@@ -1,0 +1,55 @@
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+.allelm{
+box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+    
+}
+
+input {
+
+    background-color: transparent !important ;
+    color: white !important;
+
+}
+input::placeholder {
+    opacity: 0.5 !important;
+    color: white !important;
+  }
+h1{
+    color: #17a2b8;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.testt{color: red;}
+
+
+.testt1{color: green;}
+.testt22{color: red;}
+.testted{color: red;}
+
+
+.celaan{
+    cursor: pointer;
+}
+
+
+.bcolurrr{
+    color: white;
+}
+.bcolurrr:hover{
+    color: white;
+}
+
+.solmuuu{
+    height: 80vh;
+    
+}
